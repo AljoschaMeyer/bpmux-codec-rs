@@ -1,0 +1,10 @@
+[package]
+name = "bpmux-codec"
+version = "0.1.0"
+authors = ["AljoschaMeyer <mail@aljoscha-meyer.de>"]
+description = "Bridges between sinks/streams of bpmux packets and readers/writers."
+repository = "https://github.com/AljoschaMeyer/bpmux-codec-rs"
+readme = "README.md"
+license = "AGPL-3.0"
+
+[dependencies]
