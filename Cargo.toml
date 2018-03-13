@@ -8,3 +8,10 @@ readme = "README.md"
 license = "AGPL-3.0"
 
 [dependencies]
+futures-core = "0.2.0-alpha"
+futures-io = "0.2.0-alpha"
+futures-sink = "0.2.0-alpha"
+varu64 = "0.1.0"
+
+[dev-dependencies]
+async-ringbuffer = "0.3.0"
